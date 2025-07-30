@@ -46,7 +46,7 @@ Todo esto ocurre dentro de una interfaz **moderna y responsive**, con diseño **
 
 ## 📸 Captura de pantalla
 
-![Vista del juego](https://raw.githubusercontent.com/Samuel-Junieles/Challenger-One/main/img/Juego.png)
+![Vista del juego](https://raw.githubusercontent.com/Samuel-Junieles/Challenger-One/main/Img/Juego.png)
 
 ---
 
