@@ -46,7 +46,7 @@ Todo esto ocurre dentro de una interfaz **moderna y responsive**, con diseño **
 
 ## 📸 Captura de pantalla
 
-![Vista del juego](./img/Juego.jpg)
+![Vista del juego](./img/Juego.pnj)
 
 ---
 
